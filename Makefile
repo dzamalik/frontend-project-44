@@ -9,3 +9,6 @@ publish:
 
 link:
 	npm link 
+	
+lint:
+	lint-fix	

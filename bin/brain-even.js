@@ -1,2 +1,10 @@
 #!/usr/bin/env node
-console.log
+import getName from '../src/cli.js'
+
+export default function app() {
+  const userName = getName()
+
+ 
+}
+
+app()

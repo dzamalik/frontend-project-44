@@ -6,4 +6,5 @@ export default () => {
 
   console.log(`Hello, ${name}!`);
   return name;
-};
+} 
+
